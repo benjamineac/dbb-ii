@@ -2,5 +2,5 @@
 ❤️📗🌏
 
 Final project at EDA,
-Multiplayer fighting game based on rock, paper, scissors using Phaser.io.
+Multiplayer/Gamepad supported fighting game based on rock, paper, scissors using Phaser.io.
 
